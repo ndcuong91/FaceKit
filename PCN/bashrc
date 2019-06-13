@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/atsg/PycharmProjects/gvh205/caffe_1.0/build/lib:./${LD_LIBRARY_PATH}
